@@ -10,11 +10,11 @@
 - 🗻 I like to **Eksploring Forest**
 - 🔥 I'm focus on **Upragins my Skills now**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-adhitya-saputra&" alt="gabriel-adhitya-saputra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-adhitya-saputra&theme=cobalt&" alt="gabriel-adhitya-saputra" /></p>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-adhitya-saputra&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adhitya-saputra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-adhitya-saputra&layout=compact&theme=cobalt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
