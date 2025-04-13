@@ -2,11 +2,12 @@
 
 ![dixgnj8-cfccbe20-7fe0-4999-991d-1f1d72393260](https://github.com/user-attachments/assets/9d1e5d9c-dcab-4ac3-8430-ada42bcc3f27)
 
-<h1 align="center"> Hi 👋, I'm Gabriel </h1>
-<h3 align="center"> A Student from Indonesia </h3>
+<h3> Hi 👋, I'm Gabriel </h3>
+<h3> A Student</h3>
 
 - 🔭 I’m currently colloage on **Politeknik Negeri Ujung Pandang**
 - 💻 I'm Informatics **Informatics Engineering Student**
+- 🔭 I’m currently learning about **HTML, CSS, JAVASCRIPT, PHP**
 - 🗻 I like to **Eksploring Forest**
 - 🔥 I'm focus on **Upragins my Skills now**
 
