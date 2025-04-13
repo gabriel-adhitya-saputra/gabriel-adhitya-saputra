@@ -6,6 +6,9 @@
 <h3 align="center"> A Student from Indonesia </h3>
 
 - 🔭 I’m currently colloage on **Politeknik Negeri Ujung Pandang**
+- 💻 I'm Informatics **Informatics Engineering Student**
+- 🗻 I like to **Eksploring Forest**
+- 🔥 I'm focus on **Upragins my Skills now**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-adhitya-saputra&" alt="gabriel-adhitya-saputra" /></p>
 
